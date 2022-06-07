@@ -1,0 +1,8 @@
+--index https://pypi.python.org/simple/
+beautifulsoup4==4.11.1
+handytools==0.0.5.4
+numpy==1.22.4
+pandas==1.4.2
+streamlit==1.10.0
+textract==1.6.5
+tqdm==4.64.0

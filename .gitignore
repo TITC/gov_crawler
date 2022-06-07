@@ -1,0 +1,5 @@
+*.pyc
+*.log
+govcrawl/assets/*
+govcrawl/log/*.log
+govcrawl.egg-info/*
